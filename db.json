@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "11-03-2021"
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "12-03-2021"
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "13-03-2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Sebastian Asis",
+      "email": "alexandercode1464@gmail.com"
+    }
+  ]
+}
